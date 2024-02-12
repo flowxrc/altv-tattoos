@@ -7,12 +7,10 @@ alt.on("playerConnect", (player) => {
 
 // Parse number just in case
 alt.onClient("addTattoo", (player, index) => {
-    alt.log(123);
     addTattoo(player, Number(index));
 });
 
 alt.onClient("removeTattoo", (player, index) => {
-    alt.log(123);
     removeTattoo(player, Number(index));
 });
 
