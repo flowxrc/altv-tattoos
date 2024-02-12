@@ -1,5 +1,6 @@
 ## Character tattoo system for alt:V Multiplayer
-Convereted my old Rage:MP script for Alt:V
+Convereted my old Rage:MP script for Alt:V<br/>
+All tattoo overlays (to add your own to the tattooList): https://github.com/root-cause/v-tattoos
 
 ### Usage (debug):
 F8 (alt:V debug console):
